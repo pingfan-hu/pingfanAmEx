@@ -1,0 +1,23 @@
+# Claude Code directory
+.claude/
+
+# R specific
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Shiny specific
+rsconnect/
+
+# General
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
